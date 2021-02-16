@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PoToLi</string>
+    <string name="alpha">Alpha</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="change_daynight_mode">Change DayNight Mode</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="repeat_everyday">Repeat everyday</string>
+    <string name="_00_00">00:00</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+</resources>
